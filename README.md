@@ -14,4 +14,6 @@ Middle click the cell that you want to make your target position <br />
 
 Keep a track of the console as some useful instructions are displayed there.
 
+![git_image](https://user-images.githubusercontent.com/43096636/93681863-0907cd00-facc-11ea-87c4-eeebcdcf9893.png)
+
 # Enjoy the game
