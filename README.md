@@ -7,10 +7,10 @@ Find the optimal path in a grid using Q Learning the grid has been visualised us
 Download the zip file, extract it and run the program in any python IDE or in the command line.
 
 # How it works
-Left click any cell to make it a wall
-Right click the cell that you want to make your start position
-Middle click the cell that you want to make your target position
-(Make sure to choose the destination at the end)
+Left click any cell to make it a wall <br />
+Right click the cell that you want to make your start position <br />
+Middle click the cell that you want to make your target position <br />
+(Make sure to choose the destination at the end) 
 
 Keep a track of the console as some useful instructions are displayed there.
 
