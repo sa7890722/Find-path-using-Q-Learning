@@ -3,7 +3,7 @@
 Find the optimal path in a grid using Q Learning the grid has been visualised using PYGAME and the user is free to add the start point, end point and the walls in the grid wherever they want
 
 
-# How to use
+# How to use this project
 Download the zip file, extract it and run the program in any python IDE or in the command line.
 
 # How it works
