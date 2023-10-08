@@ -6,6 +6,8 @@ Find the optimal path in a grid using Q Learning the grid has been visualised us
 Some more changes
 trying to make another change here.
 
+making another change here.
+
 # How to use this project
 Download the zip file, extract it and run the program in any python IDE or in the command line.
 
